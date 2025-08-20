@@ -1,6 +1,6 @@
 import { FormInputField } from "../common/FormInputField";
 import { RadioOption } from "../common/RadioOption";
-import "./signup.css";
+import "./SignUp.css";
 import { useNavigate } from "react-router-dom";
 
 export const SignUp = () => {
