@@ -1,2 +1,3 @@
-# user-login-form-react-js
-user login form in react js
+# PopX
+
+PopX is a modern React-based web application that provides a simple and clean user interface for user registration and login.
