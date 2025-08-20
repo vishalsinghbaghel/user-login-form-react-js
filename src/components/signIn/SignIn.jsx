@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "./signin.css";
+import "./SignIn.css";
 import { FormInputField } from "../common/FormInputField";
 
 export const SignIn = () => {
