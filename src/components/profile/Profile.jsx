@@ -1,4 +1,4 @@
-import "./profile.css";
+import "./Profile.css";
 import { useLocation } from "react-router-dom";
 import { useRef, useState } from "react";
 import defaultProfile from "../../assets/profile.png";
